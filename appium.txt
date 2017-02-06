@@ -1,0 +1,4 @@
+[caps]
+platformName = "android"
+app = "/Users/nikolai_shegai/Documents/Ruby class/android_automation//PreciseUnitConversion.apk"
+deviceName = "VD"
